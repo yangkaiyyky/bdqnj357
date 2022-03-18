@@ -1,0 +1,17 @@
+127.0.0.1 - - [03/Mar/2022:14:49:47 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 1007 http-bio-8082-exec-2 28
+127.0.0.1 - - [03/Mar/2022:14:49:47 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 1007 http-bio-8082-exec-1 28
+127.0.0.1 - - [03/Mar/2022:14:49:47 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8082-exec-3 28
+127.0.0.1 - - [03/Mar/2022:14:50:28 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 1007 http-bio-8082-exec-4 1
+127.0.0.1 - - [03/Mar/2022:14:50:28 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 1007 http-bio-8082-exec-5 1
+127.0.0.1 - - [03/Mar/2022:14:50:28 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8082-exec-6 1
+127.0.0.1 - - [03/Mar/2022:14:55:11 +0800] "GET /biz/api/hotel/querytradearea/527 HTTP/1.0" 404 1015 http-bio-8082-exec-8 1
+127.0.0.1 - - [03/Mar/2022:14:55:11 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8082-exec-7 1
+127.0.0.1 - - [03/Mar/2022:14:55:14 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 1007 http-bio-8082-exec-10 0
+127.0.0.1 - - [03/Mar/2022:14:55:14 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 1007 http-bio-8082-exec-9 0
+127.0.0.1 - - [03/Mar/2022:14:55:14 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8082-exec-1 0
+127.0.0.1 - - [03/Mar/2022:14:59:23 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 1007 http-bio-8082-exec-5 1
+127.0.0.1 - - [03/Mar/2022:14:59:23 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8082-exec-2 1
+127.0.0.1 - - [03/Mar/2022:14:59:23 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 1007 http-bio-8082-exec-3 1
+127.0.0.1 - - [03/Mar/2022:14:59:26 +0800] "GET /biz/api/hotel/queryhotcity/2 HTTP/1.0" 404 1007 http-bio-8082-exec-4 1
+127.0.0.1 - - [03/Mar/2022:14:59:26 +0800] "GET /biz/api/hotel/queryhotcity/1 HTTP/1.0" 404 1007 http-bio-8082-exec-6 1
+127.0.0.1 - - [03/Mar/2022:14:59:26 +0800] "GET /biz/api/hotel/queryhotelfeature HTTP/1.0" 404 1013 http-bio-8082-exec-8 1

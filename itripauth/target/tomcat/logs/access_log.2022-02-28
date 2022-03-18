@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:15:47:43 +0800] "GET /auth HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:15:47:43 +0800] "GET /auth/ HTTP/1.1" 200 52 http-bio-8081-exec-3 349
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:15:47:43 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-4 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:15:47:49 +0800] "GET /auth/clist HTTP/1.1" 200 6321 http-bio-8081-exec-5 352
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:19:05:03 +0800] "GET /auth HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:19:05:03 +0800] "GET /auth/ HTTP/1.1" 200 52 http-bio-8081-exec-3 47
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:19:05:03 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-4 0
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:19:05:14 +0800] "GET /auth//api/dologin HTTP/1.1" 200 4 http-bio-8081-exec-5 320
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:19:05:50 +0800] "GET /auth//api/dologin?name=u1&password=123456 HTTP/1.1" 200 108 http-bio-8081-exec-6 49
